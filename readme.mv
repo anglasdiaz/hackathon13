@@ -1,0 +1,6 @@
+¿Por qué evitar los callbacks en las llamadas asíncronas?
+    Asi evitamos el dolor de cabeza llamada callback Hell.
+¿Qué es una promesa?
+    Es un objeto que puede retornar resuelto o rechazado
+¿Qué es el callback hell?
+    El anidamiento de callbacks o funciones
